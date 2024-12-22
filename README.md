@@ -26,3 +26,6 @@
 ### jogos favoritos 😁👾
 [![steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)]( https://steamcommunity.com/profiles/76561199525815465/)
 
+
+### linguagens mais ultilizadas
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-ze0ss)](https://github.com/anuraghazra/github-readme-stats)
